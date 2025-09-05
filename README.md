@@ -5,7 +5,7 @@
 
 This is a Unity framework for creating **Plinko/Pachinko style incremental games**. The framework allows you to spawn balls that bounce off pegs, track scores, and increment rewards. It’s fully customizable, making it easy to create your own incremental or idle-style Plinko games.
 
-** If used please credit my github at Github.com/Murugan47
+** If used please credit my github at Github.com/Murugan47 **
 
 ---
 
